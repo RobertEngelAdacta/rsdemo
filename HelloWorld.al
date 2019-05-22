@@ -9,5 +9,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
         Message('App published: Hello world');
         //c1;
         //c2;
+        //ovo je poruka koju salje Blagoje: Blagoje kaze poyy
     end;
 }
